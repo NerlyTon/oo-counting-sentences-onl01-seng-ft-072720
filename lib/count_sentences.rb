@@ -18,4 +18,4 @@ class String
   self.split(/[.!?]/).reject{|e| empty?}.size
   # binding.pry
   end
-end
+endexit!
